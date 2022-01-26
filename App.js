@@ -80,7 +80,7 @@ export default function App(props) {
                 },
               ],
             }}
-            source={require('./image.jpeg')}
+            source={require('./src/asset/image/image.jpeg')}
           />
           <View style={{width: '100%', position: 'absolute', marginTop: 200}}>
             <Text>Asdfasdfasdf</Text>
