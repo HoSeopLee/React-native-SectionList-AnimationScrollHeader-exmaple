@@ -7,6 +7,6 @@
 
 |                         `Android`                         |                           `Ios`                           |
 | :-------------------------------------------------------: | :-------------------------------------------------------: |
-| <div style="width:200px"> ![example gif](./gif.gif)</div> | <div style="width:200px"> ![example gif](./ios.gif)</div> |
+| <div style="width:200px"> ![example gif](./gif.gif)</div> | <div style="width:100px"> ![example gif](./ios.gif)</div> |
 
 </center>
