@@ -5,8 +5,8 @@
 - 이게 맞는건지는 잘 모르겠지만 조금더 공부를 해보기위한 삽질 소스
 <center>
 
-|                         `Android`                         |                           `Ios`                           |
-| :-------------------------------------------------------: | :-------------------------------------------------------: |
-| <div style="width:200px"> ![example gif](./gif.gif)</div> | <div style="width:100px"> ![example gif](./ios.gif)</div> |
+|                         `Android`                         |                          `Ios`                           |
+| :-------------------------------------------------------: | :------------------------------------------------------: |
+| <div style="width:200px"> ![example gif](./gif.gif)</div> | <div style="width:50px"> ![example gif](./ios.gif)</div> |
 
 </center>
