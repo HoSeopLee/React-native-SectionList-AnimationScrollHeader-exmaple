@@ -5,8 +5,8 @@ import {
   Animated,
   TouchableOpacity,
   SafeAreaView,
+  Dimensions,
 } from 'react-native';
-
 const HEADER_MAX_HEIGHT = 360; //이미지 및 위 쪽 영역 부분
 const HEADER_MIN_HEIGHT = 50; //헤더 크기 및 최소 줄임 크기 영역
 const HEADER_SCROLL_DISTANCE = HEADER_MAX_HEIGHT - HEADER_MIN_HEIGHT; // 계산식
@@ -139,7 +139,7 @@ export default function App(props) {
                         paddingTop: 15,
                         paddingBottom: 15,
                       }}>
-                      <Text style={[{color: '#333'}]}>상세정보</Text>
+                      <Text style={[{color: '#333'}]}>Tab1</Text>
                     </TouchableOpacity>
                     <TouchableOpacity
                       style={{
@@ -148,7 +148,7 @@ export default function App(props) {
                         paddingTop: 15,
                         paddingBottom: 15,
                       }}>
-                      <Text style={[{color: '#333'}]}>전문가 정보</Text>
+                      <Text style={[{color: '#333'}]}>Tab2</Text>
                     </TouchableOpacity>
                     <TouchableOpacity
                       style={{
@@ -157,7 +157,7 @@ export default function App(props) {
                         paddingTop: 15,
                         paddingBottom: 15,
                       }}>
-                      <Text style={[{color: '#333'}]}>후기</Text>
+                      <Text style={[{color: '#333'}]}>Tab3</Text>
                     </TouchableOpacity>
                     <TouchableOpacity
                       style={{
@@ -166,7 +166,7 @@ export default function App(props) {
                         paddingTop: 15,
                         paddingBottom: 15,
                       }}>
-                      <Text style={[{color: '#333'}]}>Q&A</Text>
+                      <Text style={[{color: '#333'}]}>Tab4</Text>
                     </TouchableOpacity>
                   </Animated.View>
                 </View>
